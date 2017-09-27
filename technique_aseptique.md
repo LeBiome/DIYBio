@@ -1,3 +1,9 @@
+---
+title: Technique aseptique
+description: Tips de base pour réussir ces expéreinces en biologie à faire soi-même
+image_url:
+---
+
 # Technique aseptique
 
 ## Contexte
