@@ -1,3 +1,9 @@
+---
+title: Cultiver des Acetobacter
+descritpion: protocole de culture pour des bactéries servant à produire des biofabrics
+image_url:
+---
+
 # Culture Acetobacter 
 
 Étapes
