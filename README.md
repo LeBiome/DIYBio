@@ -5,4 +5,7 @@ image_url: http://www.knowtex.com/blog/wp-content/uploads/2012/07/diybio.jpg
 ---
 
 # DIYBio
+
 Do It Yourself Biology
+
+1. [Faire soi-même son laboratoire presque n'importe où](#LeBiome/DIYBio/blob/master/diy_lab_bio.md)
