@@ -15,6 +15,7 @@ A. [Espace de travail](#espace-de-travail)
    - [Recettes et Protocoles](#recettes-et-protocoles)
    - [Communautés](#communautés)
    - [Projets](#projets)
+   
 B. [Autres liens pour démarrer un laboratoire DIWO HackLab](#autres-liens-pour-démarrer-un-laboratoire-diwo-hacklab)
    -  [Hackerspace design patterns](https://xavcc.github.io/tilios-design)
    -  [Bonnes pratiques microbiologiques](#bonnes-pratiques-microbiologiques)
