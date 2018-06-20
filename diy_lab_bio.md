@@ -1,7 +1,7 @@
 ---
 title: Faire soi-même son laboratoire de biologie et biodesign
 description: presque n'importe où y compris chez vous
-image_url: /images/home-biolab.jpg
+image_url: /images/microscop_biolab.jpg
 ---
 
 Vous n'avez de besoin que de bonne volonté, de motivation et de quelques petits mêtres carrés pour commencer à installer un laboratoire citoyen de biologie.
@@ -19,4 +19,4 @@ Vous n'avez de besoin que de bonne volonté, de motivation et de quelques petits
 
 Que cela soit dans votre chambre étudiante, dans un appartement, un garage, un batiment désafecté ou dans un tiers-lieux, un simple meuble, un mur et un espace de 4m² vous permettrons de démarrer.
 
-<img src="/images/home-biolab.jpg" width="200" height="300" />
+![](images/home-biolab.jpg)
