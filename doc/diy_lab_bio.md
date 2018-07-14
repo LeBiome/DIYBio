@@ -10,15 +10,19 @@ Cette fiche table des contenus, fournie par les communautés du biome hacklab, c
 
 ![](https://framapic.org/uLex0LbcFSuN/RhdYy0UcB4AT.jpg)
 
-A. [Espace de travail](#espace-de-travail)
-   - [Équipement et outils de laboratoire](#équipements-et-outils-de-laboratoire)
-   - [Recettes et Protocoles](#recettes-et-protocoles)
-   - [Communautés](#communautés)
-   - [Projets](#projets)
+A. Communautés
+  - Lancer un projet communautaire
+  - CommunautéS Libres et ouvertes
+
+B. Espace de travail
+   - Équipement et outils de laboratoire
+   - Recettes et Protocoles
+   - Travail en Communautés
+   - Projets
    
-B. [Autres liens pour démarrer un laboratoire DIWO HackLab](#autres-liens-pour-démarrer-un-laboratoire-diwo-hacklab)
+C. Autres liens pour démarrer un laboratoire DIWO HackLab
    -  [Hackerspace design patterns](https://xavcc.github.io/tilios-design)
-   -  [Bonnes pratiques microbiologiques](#bonnes-pratiques-microbiologiques)
-   -  [Monnaie libre et financement communautaire](#monnaie-libre)
-   -  [Prochaines étapes](#prochaines-étapes)
+   -  Bonnes pratiques microbiologiques
+   -  [Monnaie libre et financement communautaire](http://movilab.org/index.php?title=Tiers-lieux_et_monnaie_libre)
+   -  Prochaines étapes
    
